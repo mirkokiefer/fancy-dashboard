@@ -6,6 +6,8 @@
   "license": "BSD",
   "dependencies": {
     "express": "~3.2.2",
-    "browserify-middleware": "~1.9.0"
+    "browserify-middleware": "~1.9.0",
+    "cradle": "~0.6.5",
+    "async": "~0.2.8"
   }
 }
